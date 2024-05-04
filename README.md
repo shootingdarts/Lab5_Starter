@@ -2,4 +2,4 @@
 
 David Liu, Joshua Villanueva
 
-[expose](expose.html)
+[Expose](expose.html)
