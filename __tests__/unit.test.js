@@ -12,7 +12,7 @@ import {
 //isPhoneNumber
 //no country code
  test('check if this is a valid phone number', () => {
-   expect(isPhoneNumber("804-991-9494")).toBe(true);
+   expect(isPhoneNumber("804-991-9494")).toBe(true); 
  });
 //added 1 at beginning/country code
  test('check if this is a valid phone number', () => {
