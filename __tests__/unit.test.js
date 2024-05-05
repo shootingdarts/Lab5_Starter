@@ -102,5 +102,5 @@ test('check if #89c42 is valid hexcolor', () => {
 // RRGGBB but z is not a valid hexadecimal
 test('check if 89c42z is valid hexcolor', () => {
   expect(isHexColor("89c42z")).toBe(false);
-});
+}); 
 // isHexColor^^^
